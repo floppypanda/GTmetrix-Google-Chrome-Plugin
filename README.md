@@ -5,7 +5,7 @@ This was constructed by following a tutorial written by John Sonmez at the link 
 
 http://www.sitepoint.com/create-chrome-extension-10-minutes-flat/
 
-Many thanks to Itzik Gur (http://itzikgur.deviantart.com/) for posting the icon used 
+Many thanks to Itzik Gur for posting the icon used 
 for the extension to IconArchive and licensing it as freeware.
 
 http://www.iconarchive.com/show/my-seven-icons-by-itzikgur/Downloads-1-icon.html
